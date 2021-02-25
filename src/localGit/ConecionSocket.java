@@ -65,4 +65,7 @@ public class ConecionSocket {
 			}
 		}
 	}// validasocket
+	private static void m1() {
+		System.out.println("ConecionSocket.m1() Comentario local 1 ");
+	}
 }// cklass
