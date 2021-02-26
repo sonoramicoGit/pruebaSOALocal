@@ -8,6 +8,10 @@ public class Negocio {
 	public void insert() {
 		System.out.println("Negocio.insert() Comentario local 1");
 	}
+	public void delete() {
+		System.out.println("Negocio.delete() Comentario local 1");
+	}
+
 
 
 }
