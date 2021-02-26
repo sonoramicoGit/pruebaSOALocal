@@ -15,6 +15,8 @@ public class Negocio {
 		System.out.println("Negocio.delete() Comentario local 1");
 	}
 
-
+	public void nuevo() {
+		System.out.println("Negocio.nuevo() Comentario local 1");
+	}
 
 }
