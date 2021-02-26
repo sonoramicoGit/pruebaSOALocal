@@ -11,6 +11,9 @@ public class Negocio {
 	public void delete() {
 		System.out.println("Negocio.delete() Comentario local 1");
 	}
+	public void update() {
+		System.out.println("Negocio.delete() Comentario local 1");
+	}
 
 
 
