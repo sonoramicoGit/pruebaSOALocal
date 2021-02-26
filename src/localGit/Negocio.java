@@ -21,5 +21,8 @@ public class Negocio {
 	public void nuevo2() {
 		System.out.println("Negocio.nuevo2() Comentario local 1");
 	}
+	public void nuevo3() {
+		System.out.println("Negocio.nuevo3() Comentario local 1");
+	}
 
 }
