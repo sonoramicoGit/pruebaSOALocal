@@ -24,6 +24,10 @@ public class Negocio {
 	public void nuevo3() {
 		System.out.println("Negocio.nuevo3() Comentario rama local 1");
 	}
+	public void nuevo4() {
+		System.out.println("Negocio.nuevo4() Comentario rama-uno local 1");
+	}
+
 	public void nuevo5() {
 		System.out.println("Negocio.nuevo5() Comentario rama local 1");
 	}
