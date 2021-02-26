@@ -31,5 +31,8 @@ public class Negocio {
 	public void nuevo5() {
 		System.out.println("Negocio.nuevo5() Comentario rama local 1");
 	}
+	public void nuevo6() {
+		System.out.println("Negocio.nuevo6() Comentario rama local 1");
+	}
 
 }
